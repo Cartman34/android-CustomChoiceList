@@ -11,7 +11,7 @@ Introduction
 This sample demonstrates how to create custom single- or multi-choice [ListView][1] UIs on Android.
 
 When a ListView has a `android:choiceMode` attribute set, it will allow users to "choose" one or more items. For
-exmaple, refer to `res/layout/sample_main.xml` in this project:
+example, refer to `res/layout/sample_main.xml` in this project:
 
 ```xml
 <ListView android:id="@android:id/list"
@@ -48,7 +48,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-settings.png" height="400" alt="Screenshot"/> 
+![ScreenShot](https://raw.githubusercontent.com/googlesamples/android-CustomChoiceList/master/screenshots/main.png)
 
 Getting Started
 ---------------
